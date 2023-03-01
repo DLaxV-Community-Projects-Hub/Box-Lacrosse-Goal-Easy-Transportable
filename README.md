@@ -26,7 +26,7 @@ How to build a FIL Box Lacrosse (4'9" x 4' 0" x 4' 6") goal which easy disassemb
 - 4x [Steel Rod 10 x 2000 mm](https://www.stahl-shop24.de/Rundstahl-10mm-2000mm)
 - 4x [Steel Rod 10 x 1500 mm](https://www.stahl-shop24.de/Rundstahl-10mm-1500mm)
 
-Links go to [Stahl-Shop24](https://www.stahl-shop24.de/) where I bought the pipes and rods for our goals. No shipping costs charged when you get it all there (because over 150€ it is free). Worked out well for me.
+Links go to [Stahl-Shop24](https://www.stahl-shop24.de/) where I bought the pipes and rods for our goals. No shipping costs charged when you get it all there (because over 150€ it is free in Germany). Worked out well for me. In other countries, you might need to find other suppliers.
 
 #### Other Parts
 - 128 x M10 Steel Nuts or 80 x M10 Steel Nuts and 48 x M10 Welding Nuts
@@ -103,21 +103,24 @@ Then weld on the prepared rods onto the pipes (on two sides of the nuts on the r
 Apply paint is almost my worst discipline so I cannot give good advice at this topic. I´ve used a 1k all in one paint with primer function and rust protection build in. It is realy crappy. Better use 2k high quality paint (maybe car grade quality) and use proper primer. For sure the metal needs to be cleaned from oil realy well befor applyin the primer. Use proper detergents. Better apply more than one coat of paint and let dry it sufficient.
 
 
-
-
-
 ## Safety Advise
 
 Please make shure your final build has no sharp edges to prevent inusries while using the goals on the field.
 
-
 ## Case
 
-I´ve planned to build a case to make goal transport and storage even more easier. The case is not ready yet. The dimesions would be like 1100 mm x 900 mm. There should be two roles on two corners and handles on three sides.
+I´ve planned to build a case to make goal transport and storage even more easier. The case is not build and tested yet. The dimesions would be like 1100 mm x 900 mm. There should be two roles on two corners and handles on three sides.
 
 <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Case_1100x900.JPG" width=50% height=50%>
 
-(breakdown pattern for parts in case)
+(possible breakdown pattern for parts in case)
+
+## How to Contribute
+
+Feedback is very much appreciated. After building v2.0 I made some changes to the design and I really need feedback of how they worked out in  building to verify the current design state. Please let me know if you build v2.1 and send me a mail to @github@dlaxv.de.
+
+If you want to make changes to design by your own to make it better or adjust it to your needs feel free to use the [.step](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/FIL_Goal_v2.1.step) or [f3s](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/FIL_Goal_v2.1.f3d) (Fusion 360) files. Please be warned, the model got mad somehow in the process when I tinkered around with components. Hopefully I can repair it in the future.
+
 
 ## History
 
@@ -141,5 +144,16 @@ I´ve planned to build a case to make goal transport and storage even more easie
 - Disassemblable -> easier transportable as an rigid goal
 
 
+## Authors
 
+- [@ChangeD20](https://github.com/ChangeD20)
+- [@devdrik](https://github.com/devdrik)
+
+## Contact
+
+github@dlaxv.de
+
+## License
+
+[CERN OHL v2 Permissive](https://choosealicense.com/licenses/cern-ohl-p-2.0/)
 
