@@ -8,9 +8,12 @@ How to build a FIL Box Lacrosse (4'9" x 4' 0" x 4' 6") goal which easy disassemb
 
 - 4'9" x 4' 0" x 4' 6"
 - 2" Poles (51 mm)
-- Disassemblable into 6 parts
+- disassemblable into 6 small parts
+- holds together by clamping inner pipes with set screws
 
-<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Front_2.JPG" width=40% height=40%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Back.JPG" width=40% height=40%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Side.JPG" width=40% height=40%> (Pictures of v2.0 Assemble)
+
+<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Front_2.JPG" width=40% height=40%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Back.JPG" width=40% height=40%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Side.JPG" width=40% height=40%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_in_Studio.JPG" width=40% height=40%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Case_Pattern.JPG" width=40% height=40%> (Pictures of v2.0 Assemble)
+
 
 ## How to Build v2.1 Goal
 
@@ -38,7 +41,7 @@ Links go to [Stahl-Shop24](https://www.stahl-shop24.de/) where I bought the pipe
 - Handheld metal tools
 - Inbus for M10 Point Set Screw
 - minimum 11mm Drill Bit and Countersink or step drill bit with minimum 11 mm diameter stage
-- drilling machine (drill press recomanded)
+- drilling machine (drill press recommended)
 
 #### Paint-Job
 - 2k high quality red paint
@@ -49,15 +52,21 @@ Links go to [Stahl-Shop24](https://www.stahl-shop24.de/) where I bought the pipe
 
 #### Parts Preparation
 
-For cutting metal pipes and rods a metal cutting curcular saw is recommended.
+For cutting metal pipes and rods a metal cutting circular saw is recommended. Using this saw rather than an angle grinder guarantees clear cuts as you can see on the picture below.
 
 Use the cutting pattern sheets for [inner pipes](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/Cutting_Pattern_Inner_Poles_v2.1.pdf) ,[outer pipes and rods](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/Cutting_Pattern_Outer_Poles_v2.1.pdf) cutting to length.
 
-picture of cut pipe
+<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/cut_pipe.JPG" width=30% height=30%>
 
 Put a line of tape on each pipe and rod and mark them to make finding the right parts easier.
 
+<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/cut_pipes_with_tape.JPG" width=50% height=50%>
+
+
 Drill 11 mm holes and countersink them where the clamping nuts are welded on later. The holes are located where the set screews go through the outer pipes to clamp the inner pipes. The countersink makes placing the nuts easier for welding them on the pipes. When you use special M10 welding nuts the countersink might be redundant. You can find the dimensions and the angles for drilling the holes on the drawing sheets for the three parts and their mirrored counter parts (make shure you get all the angles right):
+
+<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/drilled_hole.JPG" width=30% height=30%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/placed_nut.JPG" width=30% height=30%>
+
 
 pictures of hole and placed nuts
 
@@ -65,7 +74,7 @@ pictures of hole and placed nuts
 - [Base Corner](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/Base_Corner_Drawing_v2.1.pdf)
 - [Base Back](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/Base_Back_Drawing_v2.1.pdf)
 
-Clean up all the welding areas with a angle grinder and a grinding disk.
+Clean all the welding areas with a angle grinder and a grinding disk.
 
 #### Welding
 
@@ -97,7 +106,9 @@ Then weld on the prepared rods onto the pipes (on two sides of the nuts on the r
 
 
 
+## Safety Advise
 
+Please make shure your final build has no sharp edges to prevent inusries while using the goals on the field.
 
 
 ## Case
@@ -112,10 +123,11 @@ I´ve planned to build a case to make goal transport and storage even more easie
 
 ### v2.1 Update
 
-- adjusted and modified some angles and and dimensions and re-build it in Fusion 360
+- adjusted and modified some angles and dimensions and re-build it in Fusion 360
 - changed M8 Nuts and Screws to M10 (nuts distorted due to welding)
 - changed M12 Nuts to M10 (to have only M10 nuts)
-- changed from Staneless Steel Nuts to normal Steel Nuts (welding of the different materials was difficult, much rework) 
+- changed from Staneless Steel Nuts to normal Steel Nuts (welding of the different materials was difficult, much rework)
+- rigid installtion of the rods (former rods had threats on both ends and where held by nuts, a way too much work cutting all the threads by hand)
 
 ### v2.0 Re-Design of the v1.0 goal by ChangeD20
 
