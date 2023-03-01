@@ -42,6 +42,7 @@ Links go to [Stahl-Shop24](https://www.stahl-shop24.de/) where I bought the pipe
 - Inbus for M10 Point Set Screw
 - minimum 11mm Drill Bit and Countersink or step drill bit with minimum 11 mm diameter stage
 - drilling machine (drill press recommended)
+- gloves
 
 #### Paint-Job
 - 2k high quality red paint
@@ -62,45 +63,44 @@ Put a line of tape on each pipe and rod and mark them to make finding the right 
 
 <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/cut_pipes_with_tape.JPG" width=50% height=50%>
 
-
-Drill 11 mm holes and countersink them where the clamping nuts are welded on later. The holes are located where the set screews go through the outer pipes to clamp the inner pipes. The countersink makes placing the nuts easier for welding them on the pipes. When you use special M10 welding nuts the countersink might be redundant. You can find the dimensions and the angles for drilling the holes on the drawing sheets for the three parts and their mirrored counter parts (make shure you get all the angles right):
+Drill 11 mm holes and countersink them where the clamping nuts are welded on later. Using drilling oil is recommended. The holes are located where the set screews go through the outer pipes to clamp the inner pipes. The countersink makes placing the nuts easier for welding them on the pipes. When you use special M10 welding nuts the countersink might be redundant. You can find the dimensions and the angles for drilling the holes on the drawing sheets for the three parts and their mirrored counter parts (make shure you get all the angles right):
 
 <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/drilled_hole.JPG" width=30% height=30%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/placed_nut.JPG" width=30% height=30%>
 
-
-pictures of hole and placed nuts
 
 - [Top Corner](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/Top_Corner_Drawing_v2.1.pdf)
 - [Base Corner](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/Base_Corner_Drawing_v2.1.pdf)
 - [Base Back](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/Base_Back_Drawing_v2.1.pdf)
 
-Clean all the welding areas with a angle grinder and a grinding disk.
+Clean all the welding areas with a angle grinder and a grinding disk. On some edged that are supposed to be welded to corners it might be necessary to grind a small chamfer on. Ask your skilled welder friend for advise (see explanation below).
 
 #### Welding
 
 I don't know how to weld. If you are as bad at welding as I am, have an experienced friend do this part. Welders know how this has to be done. Please use the part drawings mentioned above.
 
-picture of skilled friend
+<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/skilled_friend.JPG" width=80% height=80%>
 
 Following I will try to sum up some recommendations:
 
 First weld all 90° corners, then the 123° one. Clean up the weld seams with a angle grinder and a grinding disk.
 
-picture of welding corner
-
 When you don´t have magnetic square clamps by hand better build your own jig to make shure the pipes are in the right angle when weld together. For the 123° corner a self-build jig is anyway recommended.
 
-picture jig
+<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/jig.JPG" width=30% height=30%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/jig_right_angle.JPG" width=30% height=30%>
+
+<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/welded_corner.JPG" width=30% height=30%> (welded and cleaned corner, rod and nuts on for testing position)
 
 Then weld on the clamping nuts. Better let screews inside when welding. Minium weld on three points on a hex nut, better all six sides. But be carefull, don´t weld to long, the nut could distored due to too much heat. When using a four-sided welding nut point-weld all four sides.
 
-pictures of welding nut
+<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/welding_nut_1.JPG" width=30% height=30%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/welding_nut_2.JPG" width=30% height=30%> <img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/welding_nut_3.JPG" width=30% height=30%>
 
 After welding on the clamping nuts prepare the rods. Put the nuts on the rod and place it on a plane to align the nuts. Use the drawings again to adjust the spacing between the nuts and to see how much nuts are needed. On both ends on each rod the end of the rod should be 2mm into the nut (better for welding I hope). Weld all nuts to the rod to secure the nuts in place.
 
 Then weld on the prepared rods onto the pipes (on two sides of the nuts on the rods). Please make shure to match the right angles around the inner axis of the pipes as shown in the drawings.
 
+#### Painting
 
+Apply paint is almost my worst discipline so I cannot give good advice at this topic. I´ve used a 1k all in one paint with primer function and rust protection build in. It is realy crappy. Better use 2k high quality paint (maybe car grade quality) and use proper primer. For sure the metal needs to be cleaned from oil realy well befor applyin the primer. Use proper detergents. Better apply more than one coat of paint and let dry it sufficient.
 
 
 
