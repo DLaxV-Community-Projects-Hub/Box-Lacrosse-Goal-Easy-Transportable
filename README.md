@@ -102,6 +102,17 @@ Then weld on the prepared rods onto the pipes (on two sides of the nuts on the r
 
 Apply paint is almost my worst discipline so I cannot give good advice at this topic. I´ve used a 1k all in one paint with primer function and rust protection build in. It is realy crappy. Better use 2k high quality paint (maybe car grade quality) and use proper primer. For sure the metal needs to be cleaned from oil realy well befor applyin the primer. Use proper detergents. Better apply more than one coat of paint and let dry it sufficient.
 
+I haven´t painted the inner pipes. Make sure they are still oiled sufficient to prevent rust.
+
+#### Assembly
+
+Put the inner pipes into the outer pipes parts and fix them by clamping with the set screews. In first assembly I recommend to make marks on the inner pipes where the junction area is. This makes later set up easier. Place the inner pipes so that all 4 screws at each junction are clamping. Do not tighten the set screews to firmly to prevent damage to the screews by the inbus bits.
+
+List of junctions and inner pipes length:
+
+- Top Corner Right and Left: 700 mm (equal distributed)
+- Top Corner and Base Corner: 750 mm (not equal distributed)
+- Base Corner and Base Back: 650 mm (eqaul distributed)
 
 ## Safety Advise
 
