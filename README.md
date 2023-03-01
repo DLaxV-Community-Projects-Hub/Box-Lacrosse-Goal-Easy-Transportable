@@ -117,7 +117,7 @@ I´ve planned to build a case to make goal transport and storage even more easie
 
 ## How to Contribute
 
-Feedback is very much appreciated. After building v2.0 I made some changes to the design and I really need feedback of how they worked out in  building to verify the current design state. Please let me know if you build v2.1 and send me a mail to @github@dlaxv.de.
+Feedback is very much appreciated. After building v2.0 I made some changes to the design and I really need feedback of how they worked out in  building to verify the current design state. Please let me know if you build v2.1 and send me a mail to @github@dlaxv.de. I would also love to see some pictures of your builds!
 
 If you want to make changes to design by your own to make it better or adjust it to your needs feel free to use the [.step](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/FIL_Goal_v2.1.step) or [f3s](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/FIL_Goal_v2.1.f3d) (Fusion 360) files. Please be warned, the model got mad somehow in the process when I tinkered around with components. Hopefully I can repair it in the future.
 
@@ -147,7 +147,6 @@ If you want to make changes to design by your own to make it better or adjust it
 ## Authors
 
 - [@ChangeD20](https://github.com/ChangeD20)
-- [@devdrik](https://github.com/devdrik)
 
 ## Contact
 
