@@ -4,6 +4,8 @@
 
 How to build a FIL Box Lacrosse (4'9" x 4' 0" x 4' 6") goal which easy disassembleble to transport it by any car!
 
+<img src="https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Front_2.JPG" width=20% height=20%>
+
 
 ## History
 
@@ -20,7 +22,7 @@ v2.0 Re-Design of the v1.0 goal by ChangeD20
 - Smaller screws
 
 
-v1.0 First Goal [Drawings by Dresden Lacrosse](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v1-Disassemblable-Rigid-Bar) with a rigid bar
+v1.0 First Goal [Drawings by Dresden Lacrosse](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v1.0-Disassemblable-Rigid-Bar) with a rigid bar
 
 - Disassemblable -> easier transportable as an rigid goal
 
