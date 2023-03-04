@@ -1,6 +1,6 @@
 ![Banner](https://github.com/DLaxV-Community-Projects-Hub/FIL-Box-Lacrosse-Goal-v2.1-Disassemblable/blob/main/assets/Goal_Banner.JPG)
 
-# FIL-Box-Lacrosse-Goal-v2.1-Disassemblable
+# FIL-Box-Lacrosse-Transportable-Goal-v2.1
 
 How to build a FIL Box Lacrosse (4'9" x 4' 0" x 4' 6") goal which easy disassembleble to transport it by any car!
 
